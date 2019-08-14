@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TourConfirmationActivity">
+
+    <TextView
+        android:id="@+id/TourName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/TourName"
+        android:textColor="@color/confirmationTxt"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/textTourName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:background="@drawable/border"
+        android:textColor="@color/black"
+        android:textSize="@dimen/confirmationTxt"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/TourPeople"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/TourPeople"
+        android:textColor="@color/confirmationTxt"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/textTourPeople"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:background="@drawable/border"
+        android:textColor="@color/black"
+        android:textSize="@dimen/confirmationTxt"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/TourPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/TourPrice"
+        android:textColor="@color/confirmationTxt"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/textTourPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:background="@drawable/border"
+        android:textColor="@color/black"
+        android:textSize="@dimen/confirmationTxt"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/TourCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/TourCode"
+        android:textColor="@color/confirmationTxt"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/textTourCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:background="@drawable/border"
+        android:textColor="@color/black"
+        android:textSize="@dimen/confirmationTxt"
+        app:fontFamily="@font/roboto_light" />
+
+
+    <TextView
+        android:id="@+id/TourDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/TourDate"
+        android:textColor="@color/confirmationTxt"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/textTourDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:background="@drawable/border"
+        android:textColor="@color/black"
+        android:textSize="@dimen/confirmationTxt"
+        app:fontFamily="@font/roboto_light" />
+
+    <TextView
+        android:id="@+id/Congratulation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/confirmationMargin"
+        android:text="@string/CongratulationsMessage"
+        android:textColor="@color/congrats"
+        android:textSize="@dimen/confirmationTitles"
+        android:textStyle="bold"
+        app:fontFamily="@font/roboto_light" />
+
+
+</LinearLayout>

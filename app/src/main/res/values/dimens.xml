@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin15">15sp</dimen>
+    <dimen name="text_subhead">16sp</dimen>
+    <dimen name="cityInfoTitle">18sp</dimen>
+    <dimen name="confirmationTitles">18sp</dimen>
+    <dimen name="confirmationTxt">16sp</dimen>
+    <dimen name="confirmationMargin">8dp</dimen>
+
+</resources>

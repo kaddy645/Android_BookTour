@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>    <!--We have changed default color of header here-->
+
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="Red">#FD4A08</color>
+    <color name="LightGray">#D8D8D8</color>
+
+
+    <color name="colorTextsub">#5F6368</color>
+    <color name="cityInfoColor">#1a0dab</color>
+    <color name="btntxtColor">#6200EE</color>
+    <color name="confirmationTxt">#5F6368</color>
+    <color name="congrats">#60CD35</color>
+    <color name="priceColor">#6200EE</color>
+
+
+</resources>

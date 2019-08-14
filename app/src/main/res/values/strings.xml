@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Book Tours App</string>
+
+    <string name="Selectcity">Select the city</string>
+    <string name="btnFindTours">Find Tours</string>
+    <string name="SplashQuote">“The gladdest moment in human life is a departure into unknown lands.” – Sir Richard Burton</string>
+    <string name="wcImgDesc">Travel World</string>
+    <string name="btnDate">Select the Date for the Tour</string>
+    <string name="btnBookTour">Book Tour</string>
+    <string name="overview">Overview</string>
+    <string name="knowMore">Know More About These Cities</string>
+    <string name="noOfPeople">Select No of People</string>
+    <string name="CongratulationsMessage">Congratulations!! You have successfully booked the tour</string>
+
+
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="defaultVal">1</string>
+    <string name="tourdetailsLabel">DETAILS</string>
+    <string name="tourconfirmationLabel">TOUR CONFIRMATION</string>
+
+    <string name="TourName">NAME</string>
+    <string name="TourPeople">TRAVELLERS</string>
+    <string name="TourPrice">PRICE</string>
+    <string name="TourCode">TOUR CODE</string>
+    <string name="TourDate">DATE</string>
+
+
+    <string-array name="New_YorkTitle">
+        <item>New York in One Day Guided Sightseeing Tour</item>
+        <item>Statue of Liberty and Ellis Island</item>
+        <item>Spirit of New York Dinner Cruise with Buffet</item>
+        <item>Niagara Falls Day Trip</item>
+        <item>Top of the Rock Observation Deck</item>
+
+    </string-array>
+
+
+    <string-array name="NewYorkTourPrice">
+        <item>$89.00</item>
+        <item>$45.50</item>
+        <item>$139.00</item>
+        <item>$241.50</item>
+        <item>$70.85</item>
+    </string-array>
+
+    <string-array name="New_YorkDesc">
+        <item>Travel by both boat (April–December) and bus as you swing by Wall Street, the 9/11 Memorial, South Street Seaport, Rockefeller Center, and much more.</item>
+        <item>Check two huge sites off your bucket list with this exciting guided 4-hour tour of the Statue of Liberty and Ellis Island.</item>
+        <item>Dinner cruise that floats around New York Harbor and Manhattan offering stunning views of the city</item>
+        <item>Straddling the border between Canada and the US, Niagara Falls is a thundering testament to nature’s power, with drops up to 167 (51 meters) high</item>
+        <item>Get the best view in all of New York City from the Top of the Rock Observation Deck at Rockefeller Plaza.</item>
+
+
+    </string-array>
+
+    <string name="New_York">New York</string>
+
+
+    <string-array name="ChicagoTitle">
+        <item>City Sightseeing Chicago Hop-On Hop-Off Bus Tour</item>
+        <item>Chicago Architectural River Cruise</item>
+        <item>360 Chicago Observation Deck</item>
+        <item>Lake Michigan Sightseeing Fireworks Cruise</item>
+        <item>Chicago Segway Tour</item>
+    </string-array>
+
+    <string-array name="ChicagoTourPrice">
+        <item>$19.00</item>
+        <item>$22.00</item>
+        <item>$39.00</item>
+        <item>$41.50</item>
+        <item>$70.85</item>
+    </string-array>
+    <string-array name="ChicagoDesc">
+        <item>See more of the Windy City with this money-saving, 2.5-hour, hop-on, hop-off sightseeing bus ticket. </item>
+        <item>See the towers, piers and iconic landmarks along the Chicago River on an architectural tour through the heart of the city.</item>
+        <item>Tower above the Windy City’s world-famous skyline with admission to 360 Chicago (John Hancock Observatory). </item>
+        <item>If you’re visiting Chicago during summer, this Lake Michigan cruise is a family-friendly activity that all ages can enjoy.</item>
+        <item>Glide around Chicago and along Lake Shore Drive past Lake Michigan on your very own Segway. After a 30-minute orientation session, you’re off to see highlights of the Windy City with an expert guide</item>
+    </string-array>
+
+
+    <string-array name="cities">
+        <item>Chicago</item>
+        <item>New_York</item>
+    </string-array>
+
+    <string-array name="citiesInfo">
+        <item>Chicago - Wikipedia</item>
+        <item>Chicago Fun Facts | Trivia About Chicago Attractions and History</item>
+        <item>25 Things You Should Know About Chicago</item>
+        <item>New York City - Wikipedia</item>
+        <item>25 Things You Should Know About New York City</item>
+        <item>10 Things You Need To Know About New York City</item>
+    </string-array>
+
+</resources>
